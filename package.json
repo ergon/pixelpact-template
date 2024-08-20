@@ -12,7 +12,7 @@
   "author": "Ergon Informatik AG",
   "license": "MIT",
   "devDependencies": {
-    "@playwright/test": "^1.35.1",
+    "@playwright/test": "^1.46.1",
     "@pixelpact/playwright": "https://gitpkg.now.sh/ergon/pixelpact/clients/js/playwright?main"
   }
 }
