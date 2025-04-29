@@ -12,7 +12,7 @@ This project acts as a template and example of using [Pixelpact](https://github.
 1. Start the Pixelpact service
 
 ```shell
-docker-compose up -d
+docker compose up -d
 ```
 
 2. [Install browsers](https://playwright.dev/docs/browsers)
